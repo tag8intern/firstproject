@@ -14,7 +14,7 @@ void main()
 
 	if (temp==sum)
 	{
-		printf("%d is a Amstrong numbers",r);
+		printf("%d is a Amstrong NO",r);
 	}
 	else
 	{
